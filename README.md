@@ -24,6 +24,8 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 <br>Use Otsu's method to segment the image.
 
 ## Program
+## Developed by:Amurtha vaahini.KN 
+## Register no:212222240008
 
 ```python
 # Load the necessary packages
